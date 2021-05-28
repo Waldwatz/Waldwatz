@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waldwatz
-- 👀 I’m interested in Windows programming with CA-Realizer, Free Basic, LCC, Code Blocks, Borland C++, Delphi, CA-dbFast, Visual C++ and Visual C#
-- 🌱 I’m currently learning Python, Haskell, Gentee, Fortran, Scala and Perl.
+- 👀 I’m interested in Windows programming with CA-Realizer, CA-dbFast, Free Basic, LCC, Code Blocks, Borland C++, Visual C++, Visual C#, Fortran Power Station, Delphi and Lazarus.
+- 🌱 I’m currently learning Python, Haskell, Gentee, Brainfuck, Java and Perl.
 - 💞️ I’m looking to collaborate on CA-Realizer (c:
 - 📫 How to reach me: schicktmireurescheisse@gmail.com
 
